@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../../../layout/custom_preview.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/drawable/selector.xml" value="0.3828125" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1318607764390897" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout/activity_admin.xml" value="0.33" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout/activity_login_register_page.xml" value="0.25" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout/activity_registeration.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout/fragment_login.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout/fragment_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/John/Desktop/Programming/SEG2105/Project/MyApplication/app/src/main/res/layout/selector.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/activity_admin.xml" value="0.259375" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/activity_employee.xml" value="0.259375" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/activity_employee_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/activity_time_picker.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/fragment_customer.xml" value="0.259375" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/fragment_employee.xml" value="0.18" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/backup/seg2105f21-project_gr-11/app/src/main/res/layout/update_services.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/account_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/acitivty_admin.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_admin_activities.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_customer.xml" value="0.33" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_customer_request.xml" value="0.20175438596491227" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_edit_account.xml" value="0.33" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_edit_accounts.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_edit_services.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_registeration.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/form_detailed_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/form_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/form_info_layout.xml" value="0.10131712259371833" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/form_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/fragment_edit_account.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/fragment_edit_service.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/layout_service_list.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/nav_main_header.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/toolbar_layout.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/update_services.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/John/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/menu/nav_menu.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/joonl/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_admin_activities.xml" value="0.176" />
+        <entry key="..\:/Users/joonl/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/joonl/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/nav_bar.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/joonl/OneDrive - University of Ottawa/University/2021_4_Fall/SEG2105/Project/seg2105f21-project_gr-11/app/src/main/res/layout/navigation_actionbar.xml" value="0.13020833333333334" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.14792503346720215" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.17265625" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.3990036231884058" />
+        <entry key="app/src/main/res/layout/activity_branch_displayer.xml" value="0.40353260869565216" />
+        <entry key="app/src/main/res/layout/activity_customer.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_employee_main.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/activity_form_filling.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/activity_rating.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/activity_review_viewing.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/branch_list_item.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/form_info_layout.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/fragment_edit_service.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout_branch_list.xml" value="0.23020833333333332" />
+        <entry key="app/src/main/res/layout/layout_service_list.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/rating_layout.xml" value="0.24166666666666667" />
+        <entry key="app/src/main/res/layout/service_list_item.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/update_services.xml" value="0.23333333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

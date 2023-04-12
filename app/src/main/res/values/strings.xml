@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email_or_username">Email or username</string>
+    <string name="prompt_email">Email</string>
+    <string name="username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="prompt_registration">Don\'t have an account? Register here</string>
+    <string name="add_service">Add Service</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="prompt_form">Enter required form information</string>
+
+    <string name="registration_note">The last drop down bar is only required for Employees</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="edit_accounts">Edit Accounts</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="services">Services</string>
+    <string name="form_hint">Enter Required Form Informaiton (CSV)</string>
+    <string name="form_description">All forms automatically include firstname, lastname, date of birth, address and email\nTo delete services, only enter the service name</string>
+    <string name="enter_new_service_title">Enter Service Title</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="hourly_rate_hint">Set hourly rate</string>
+
+    <string name="login">Login</string>
+    <string name="edit_services">Edit services</string>
+    <string name="nav_header_title">Navigation</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="view_requests">View Customer Requests</string>
+    <string name="prompt_address">Enter address of the branch</string>
+    <string name="prompt_phone">Enter phone number</string>
+    <string name="prompt_branch">Select Branch</string>
+    <string name="submit">Submit Branch Info</string>
+    <string name="service_list_title">Select Available Services</string>
+    <string name="prompt_working_hours">Set Working Hours</string>
+    <string name="not_initialized_1">Address Not Initialized</string>
+    <string name="not_initialized_2">Phone Number Not Initialized</string>
+    <string name="not_initialized_3">Working Hours Not Initialized</string>
+
+    <string name="service_branch"><u>Services for this Branch</u></string>
+    <string name="search">Search</string>
+    <string name="searchAddressHint">Search by address (i.e. 65 main st)</string>
+    <string name="searchServicesHint">Search by services available (i.e. Truck Rental)</string>
+    <string name="searchOpenHint">Search by open time (i.e. 8.30am)</string>
+    <string name="searchCloseHint">Search by close time (i.e. 5.00pm)</string>
+    <!--    Customer-->
+    <string name="search_branch_name">Search branches by name</string>
+    <string name="search_branch_address">Search branch by address</string>
+    <string name="search_branch_service">Search branch with service</string>
+    <string name="title_activity_search_address">SearchAddress</string>
+</resources>
